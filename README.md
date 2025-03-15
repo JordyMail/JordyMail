@@ -2,7 +2,7 @@
 
 🧠Computer science student at President University <br/>
 🤖Educate people about "Internet Of Things" on social media <br/>
-🔖I create interesting content to persuade people to learn. <br/>
+🔖I create interesting content to persuade people to learn on instagram. <br/>
 🛜Here is my Instagram account for education [https://www.instagram.com/iot_opia?igsh=ZmhzaWJlYXc4MHl4]
 
 
