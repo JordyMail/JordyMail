@@ -4,6 +4,7 @@
 🤖Educate people about "Internet Of Things" on social media <br/>
 🔖I create interesting content to persuade people to learn on instagram. <br/>
 🛜Here is my Instagram account for education [https://www.instagram.com/iot_opia?igsh=ZmhzaWJlYXc4MHl4]
+🤵For another info you can check my linkdn profile [https://www.linkedin.com/in/jordy-mail-33500b28b/]
 
 
 # 💻 Tech Stack:
