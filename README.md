@@ -3,7 +3,7 @@
 🧠Computer science student at President University <br/>
 🤖Educate people about "Internet Of Things" on social media <br/>
 🔖I create interesting content to persuade people to learn on instagram. <br/>
-🛜Here is my Instagram account for education [https://www.instagram.com/iot_opia?igsh=ZmhzaWJlYXc4MHl4] 
+🛜Here is my Instagram account for education [https://www.instagram.com/iotopia.id?igsh=MW5nZTBrYnF0cDA0bw==] 
 🤵For another info you can check my linkdn profile [https://www.linkedin.com/in/jordy-mail-33500b28b/]
 
 
