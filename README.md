@@ -5,7 +5,7 @@
 🔖I create interesting content to persuade people to learn on instagram. <br/>
 🛜Here is my Instagram account for education [https://www.instagram.com/iotopia.id?igsh=MW5nZTBrYnF0cDA0bw==]
 
-🤵For another info you can check my linkdin profile [https://www.linkedin.com/in/jordy-mail-33500b28b/]
+🤵For another info you can check my linkedin profile [https://www.linkedin.com/in/jordy-mail-33500b28b/]
 
 
 # 💻 Tech Stack:
