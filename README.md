@@ -1,6 +1,6 @@
 ## Hi I'm Jordy 
 
-🧠Computer science student at President University <br/>
+🎓Computer science student at President University <br/>
 🤖Educate people about "Internet Of Things" on social media <br/>
 🔖I create interesting content to persuade people to learn on instagram. <br/>
 🛜Here is my Instagram account for education [https://www.instagram.com/iotopia.id?igsh=MW5nZTBrYnF0cDA0bw==] <br/>
