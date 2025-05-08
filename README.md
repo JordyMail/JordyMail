@@ -1,8 +1,8 @@
 ## Hi I'm Jordy 
 
 🎓Computer science student at President University <br/>
-👨‍🏫Educate people about "Internet Of Things" on social media <br/>
-🔖I create interesting content to persuade people to learn on instagram. <br/>
+👨‍🏫Passionate about software development, data science, and IoT <br/>
+🔖Proficient in C++, PHP (Laravel), Python, and familiar with tools like GitHub, Firebase, and MQTT <br/>
 🛜Here is my Instagram account for education <a href="https://www.instagram.com/iotopia.id?igsh=MW5nZTBrYnF0cDA0bw==">iotopia.id</a> <br/>
 🤵For another info you can check my linkedin profile <a href="https://www.linkedin.com/in/jordy-mail-33500b28b/">Jordy Mail</a>
 
