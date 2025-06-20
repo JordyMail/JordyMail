@@ -1,8 +1,6 @@
 ## Hi I'm Jordy 
 
 🎓Computer science student at President University <br/>
-👨‍🏫Passionate about software development, data science, and IoT <br/>
-🔖Enthusiastic about C++, PHP (Laravel), and Python, and familiar with tools such as GitHub, Firebase, and MQTT <br/>
 🤵For another info you can check my linkedin profile <a href="https://www.linkedin.com/in/jordy-mail-33500b28b/">Jordy Mail</a>
 
 
