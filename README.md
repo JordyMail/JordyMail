@@ -1,7 +1,7 @@
 ## Hi I'm Jordy 
 
 🎓Computer science student at President University <br/>
-🤵For another info you can check my linkedin profile <a href="https://www.linkedin.com/in/jordy-mail-33500b28b/">Jordy Mail</a>
+🤵For another info you can check my linkedin profile <a href="https://www.linkedin.com/in/jordy-mail-33500b28b/">Jordy Mail</a> <br/>
 
 
 ### 💻 Interest in:
